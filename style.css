@@ -165,6 +165,7 @@ p {
 
   .slide {
     width: 100%;
+   height: auto;
   }
 
 }
