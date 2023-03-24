@@ -159,7 +159,15 @@ p {
 	}
 }
 
+@media(max-width:500px) {
 
+ 
+
+  .booking {
+    width: 100%;
+  }
+
+}
 
 
  
